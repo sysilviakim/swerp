@@ -1,0 +1,26 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:swerp.weebly.com)",
+      "WebFetch(domain:www.tidymodels.org)",
+      "WebFetch(domain:github.com)",
+      "Bash(curl:*)",
+      "Bash(bundle install:*)",
+      "Bash(ls:*)",
+      "Bash(ruby --version:*)",
+      "Bash(start:*)",
+      "Bash(gem:*)",
+      "Bash(/c/Ruby34-x64/bin/ruby.exe:*)",
+      "Bash(/c/Ruby34-x64/bin/gem.cmd install:*)",
+      "Bash(/c/Ruby34-x64/bin/bundle.cmd install:*)",
+      "Bash(/c/Ruby34-x64/bin/gem.cmd list:*)",
+      "Bash(/c/Ruby34-x64/bin/jekyll.exe:*)",
+      "Bash(gh api:*)",
+      "Bash(where:*)",
+      "Bash(/c/Ruby34-x64/bin/gem.cmd uninstall:*)",
+      "Bash(cygpath:*)",
+      "Bash(tasklist:*)",
+      "Bash(python:*)"
+    ]
+  }
+}
