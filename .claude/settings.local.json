@@ -20,7 +20,8 @@
       "Bash(/c/Ruby34-x64/bin/gem.cmd uninstall:*)",
       "Bash(cygpath:*)",
       "Bash(tasklist:*)",
-      "Bash(python:*)"
+      "Bash(python:*)",
+      "Bash(git status:*)"
     ]
   }
 }
