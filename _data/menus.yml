@@ -1,0 +1,29 @@
+# Top Menu
+topmenu:
+
+- title: Home
+  url: ""
+
+- title: About
+  url: "about/"
+
+- title: Past Presentations
+  url: "past-presentations/"
+
+- title: Contact
+  url: "contact/"
+
+# Footer Menu
+footermenu:
+
+- title: Home
+  url: ""
+
+- title: About
+  url: "about/"
+
+- title: Past Presentations
+  url: "past-presentations/"
+
+- title: Contact
+  url: "contact/"

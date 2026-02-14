@@ -1,0 +1,22 @@
+title: "SWERP"
+description: "Seoul Workshop for Empirical Research in Politics"
+email: bives@snu.ac.kr
+timezone: Asia/Seoul
+baseurl: ""
+permalink: "/:title/"
+favicon: 'assets/images/favicon.ico'
+locale: en_us
+lang: en_us
+markdown: kramdown
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
+sass:
+  sass_dir: _sass
+  style: :compressed
+
+# Plugins
+plugins:
+- jekyll-sitemap
+- jekyll-feed
+- jekyll-seo-tag
