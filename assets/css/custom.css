@@ -5,21 +5,40 @@ Just customize your theme here.
 
 body {}
 
+.cta-block {
+  border: 1px solid #eee;
+  border-left: 6px solid #fdd93d;
+  padding: 1rem 1.25rem;
+  margin: 1.25rem 0 2rem;
+  background: #fffdf0;
+}
+
+.cta-title {
+  font-weight: 700;
+  font-size: 1.05rem;
+  margin-bottom: 0.4rem;
+}
+
+.cta-text {
+  margin-bottom: 0.75rem;
+  color: #333;
+}
+
 .schedule-card {
   border: 1px solid #eee;
   box-shadow: 0 6px 18px rgba(0, 0, 0, 0.04);
 }
 
 .schedule-card .card-body {
-  padding: 1.5rem 1.75rem;
+  padding: 1.4rem 1.6rem;
 }
 
 .schedule-header {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  gap: 0.5rem 1rem;
-  margin-bottom: 0.5rem;
+  gap: 0.4rem 1rem;
+  margin-bottom: 0.4rem;
 }
 
 .date-pill {
@@ -38,9 +57,10 @@ body {}
 }
 
 .schedule-title {
-  font-size: 1.25rem;
-  margin-top: 0.5rem;
-  margin-bottom: 0.75rem;
+  font-size: 1.2rem;
+  line-height: 1.3;
+  margin-top: 0.4rem;
+  margin-bottom: 0.6rem;
 }
 
 .schedule-actions {
@@ -48,14 +68,14 @@ body {}
   flex-wrap: wrap;
   gap: 0.75rem 1rem;
   align-items: center;
-  margin-top: 0.75rem;
+  margin-top: 0.6rem;
 }
 
 .btn-join {
   background: #fdd93d;
   color: #111;
   border-radius: 999px;
-  padding: 0.4rem 0.9rem;
+  padding: 0.45rem 0.95rem;
   font-weight: 600;
   box-shadow: none;
   text-decoration: none;
@@ -71,4 +91,12 @@ body {}
 
 .schedule-meta {
   color: #555;
+}
+
+.schedule-card p {
+  margin-bottom: 0.55rem;
+}
+
+.schedule-card .small {
+  font-size: 0.85rem;
 }
