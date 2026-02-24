@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 DTSTART:20260403T010000Z
-DTEND:20260403T030000Z
+DTEND:20260403T023000Z
 SUMMARY:SWERP Graduate Student Workshop
 DESCRIPTION:Three Seoul National University graduate students will present their working projects. Each presentation will last 20 minutes and will be followed by a 20-minute Q&A.
 LOCATION:Zoom
