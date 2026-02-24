@@ -21,7 +21,13 @@
       "Bash(cygpath:*)",
       "Bash(tasklist:*)",
       "Bash(python:*)",
-      "Bash(git status:*)"
+      "Bash(git status:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)",
+      "Bash(gh repo rename:*)",
+      "Bash(git remote set-url:*)",
+      "Bash(git rm:*)"
     ]
   }
 }
