@@ -5,25 +5,6 @@ Just customize your theme here.
 
 body {}
 
-.cta-block {
-  border: 1px solid #eee;
-  border-left: 6px solid #fdd93d;
-  padding: 1rem 1.25rem;
-  margin: 1.25rem 0 2rem;
-  background: #fffdf0;
-}
-
-.cta-title {
-  font-weight: 700;
-  font-size: 1.05rem;
-  margin-bottom: 0.4rem;
-}
-
-.cta-text {
-  margin-bottom: 0.75rem;
-  color: #333;
-}
-
 .schedule-card {
   border: 1px solid #eee;
   box-shadow: 0 6px 18px rgba(0, 0, 0, 0.04);
