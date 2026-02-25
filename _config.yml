@@ -4,7 +4,7 @@ email: bives@snu.ac.kr
 timezone: Asia/Seoul
 baseurl: ""
 permalink: "/:title/"
-favicon: 'assets/images/favicon.ico'
+favicon: ''
 locale: en_us
 lang: en_us
 markdown: kramdown
