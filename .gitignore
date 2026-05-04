@@ -4,4 +4,5 @@
 .sass-cache
 _site
 Gemfile.lock
-.Rproj.user
+.Rproj.user/
+CLAUDE.md
