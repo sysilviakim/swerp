@@ -6,8 +6,9 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 DTSTART:20260508T010000Z
 DTEND:20260508T023000Z
-SUMMARY:SWERP: The Politics of Symbolic Distribution in Authoritarian Regimes: Evidence from Vietnam's Provincial Mergers
-DESCRIPTION:Presenter: Yong Kyun Kim\, Associate Professor\, Seoul National University
+SUMMARY:SWERP: Who Keeps the Name, Who Gets the Center?
+DESCRIPTION:Presenter: Yong Kyun Kim\, Associate Professor\, Seoul National University\n\nZoom: https://snu-ac-kr.zoom.us/j/89079993887?pwd=YxiJxgPdx8WWRhGRVj2uBCqEhz73lS.1\nMeeting ID: 890 7999 3887\nPasscode: 061966
 LOCATION:Zoom
+URL:https://snu-ac-kr.zoom.us/j/89079993887?pwd=YxiJxgPdx8WWRhGRVj2uBCqEhz73lS.1
 END:VEVENT
 END:VCALENDAR

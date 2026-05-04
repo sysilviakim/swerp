@@ -27,7 +27,9 @@
       "Bash(git push:*)",
       "Bash(gh repo rename:*)",
       "Bash(git remote set-url:*)",
-      "Bash(git rm:*)"
+      "Bash(git rm:*)",
+      "WebFetch(domain:www.vecteezy.com)",
+      "Bash(cd:*)"
     ]
   }
 }
