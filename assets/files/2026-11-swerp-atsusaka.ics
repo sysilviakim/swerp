@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SWERP//EN
+BEGIN:VEVENT
+UID:swerp-20261113-atsusaka@swerp.netlify.app
+DTSTAMP:20261109T000000Z
+DTSTART:20261113T010000Z
+DTEND:20261113T023000Z
+SUMMARY:SWERP: Expressive Capacity and Duverger's Theory
+DESCRIPTION:Presenter: Yuki Atsusaka\nAssistant Professor\, Hobby School of Public Affairs\, University of Houston\n\nZoom: https://snu-ac-kr.zoom.us/j/87808486462?pwd=yxfVWZk2N0Zj6tuNXao2Z3ixW7Pc1s.1\nMeeting ID: 878 0848 6462\nPasscode: 874593
+LOCATION:Zoom
+END:VEVENT
+END:VCALENDAR
